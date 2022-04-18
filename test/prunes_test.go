@@ -72,11 +72,6 @@ func Test_BalanceAt(t *testing.T) {
 
 	fmt.Println(symbol)
 
-	//privateKey, err := crypto.HexToECDSA("a92b93efb60fa25390ce66ba1556fe89f5fb0238e355c66f580837e885213883")
-	//if err != nil {
-	//	log.Fatal(err)
-	//}
-	//
 	//contractWithAbi, err := callContractWithAbi(client, privateKey, account)
 	//if err != nil {
 	//	fmt.Println("contractWithAbi :", err)
